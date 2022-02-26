@@ -1,8 +1,10 @@
-# FLICKZ
+<h1 align="center">< FLICKZ👨🏻‍💻 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> /></h1>
 
 A platform for uploading and sharing gaming highlights. Its features include authentication, routing, video processing, state management and so much more. It runs a Web Assembly file to process video files with FFMPEG.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.3. Other technology used are Tailwind CSS, TypeScript, Firebase, RxJS, Streams, WebAssembly and Rust to improve performance and combine with the power of Angular.
+
+<img src="https://i.ibb.co/hBdGpCN/Screenshot-2022-02-26-at-21-29-18.png"/>
 
 ## Development server
 
