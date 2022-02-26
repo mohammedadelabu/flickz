@@ -1,6 +1,10 @@
-# Clips
+# FLICKZ
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.3.
+### A platform for uploading and sharing gaming highlights. Its features include authentication, routing, video processing, state management and so much more. It runs a Web Assembly file to process video files with FFMPEG.
+
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.3. Other technology used are Tailwind CSS, TypeScript, Firebase, RxJS, Streams, WebAssembly and Rust to improve performance and combine with the power of Angular.
+✓
+Use  in your applications
 
 ## Development server
 
